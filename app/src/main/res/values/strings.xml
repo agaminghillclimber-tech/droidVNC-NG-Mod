@@ -17,7 +17,6 @@
     <string name="main_activity_permissions_dashboard">Permissions Dashboard</string>
     <string name="main_activity_colon">:</string>
     <string name="main_activity_screen_capturing">Screen Capturing</string>
-    <string name="main_activity_fallback">fallback, tap here to upgrade</string>
     <string name="main_activity_granted">granted</string>
     <string name="main_activity_denied">denied</string>
     <string name="main_activity_file_access">File Access</string>
@@ -58,9 +57,6 @@
     <plurals name="main_service_notification_text_listening">
         <item quantity="one">Listening for incoming connections, %1$d client connected</item>
         <item quantity="other">Listening for incoming connections, %1$d clients connected</item>
-    </plurals>
-    <string name="main_service_notification_title_fallback_screen_capture">Slow fallback screen capture mode active</string>
-    <string name="main_service_notification_action_fallback_screen_capture">Upgrade to Fast Screen Capture</string>
     <string name="main_service_notification_title_no_screen_capture">No screen capture active</string>
     <string name="main_service_notification_action_no_screen_capture">Activate Screen Capture</string>
     <string name="start">Start</string>
@@ -80,8 +76,6 @@
     <string name="write_storage_msg_android_11">To be able to transfer files to and from your device, you need to enable file access for droidVNC-NG. Please note that saving files will only be possible in the \'Download\' and \'Documents\' directories. Do you want to enable file access now?</string>
     <string name="notification_title">Notifications disabled</string>
     <string name="notification_msg">To be able to show server status information and provide a means of navigating back to the admin panel more easily, it is recommended to enable notifications. Do you want to enable notifications now?</string>
-    <string name="mediaprojection_request_activity_fallback_screen_capture_title">Slow fallback screen capture mode detected</string>
-    <string name="mediaprojection_request_activity_fallback_screen_capture_msg">Do you want to upgrade to fast mode now?</string>
     <string name="share_activtiy_server_not_running">Not shared text, server is not running.</string>
     <string name="share_activtiy_no_clients_connected">Not shared text, no clients connected.</string>
     <string name="share_activtiy_shared_successfully">Shared text to clipboards of all connected clients.</string>
